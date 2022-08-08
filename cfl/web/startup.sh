@@ -12,12 +12,17 @@ OPENMRS_HOME=/usr/local/tomcat/.OpenMRS
 
 mkdir -p $OPENMRS_HOME/owa
 mkdir -p $OPENMRS_HOME/modules
+mkdir -p $OPENMRS_HOME/frontend
 
 echo 'Copying OpenMRS modules'
 cp -r /opt/openmrs-modules/* $OPENMRS_HOME/modules/
 
 echo 'Copying OpenMRS OWA apps'
 cp -r /opt/openmrs-owa/* $OPENMRS_HOME/owa/
+
+echo 'Copying OpenMRS 3.x frontend'
+rm -rf $OPENMRS_HOME/frontend/*
+cp -r /opt/openmrs-frontend/* $OPENMRS_HOME/frontend/
 
 COPY_CFL_MODULES=${COPY_CFL_MODULES:-"true"}
 

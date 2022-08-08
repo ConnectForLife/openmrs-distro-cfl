@@ -1,0 +1,675 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 30123,
+      "sizes": {
+        "javascript": 30081,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "15.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "43cc04d683e8d9e4cc80",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 311844,
+      "sizes": {
+        "javascript": 311844
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "55.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "57f44dc12633c67cfdb6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2652,
+      "sizes": {
+        "javascript": 2652
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "76.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "282965e54f926d034994",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 83060,
+      "sizes": {
+        "javascript": 83018,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "93.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "9eecc1807dea27ac8707",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 277126,
+      "sizes": {
+        "javascript": 277126
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "145.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "8056cefee2fed7782e58",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 28797,
+      "sizes": {
+        "javascript": 28797
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "188.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a48727c984024d87fa23",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 24362,
+      "sizes": {
+        "javascript": 3409,
+        "share-init": 378,
+        "runtime": 20575
+      },
+      "names": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "openmrs-esm-patient-conditions-app.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "689776658c8117d4f418",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39074,
+      "sizes": {
+        "javascript": 39074
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "337.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "29482ff47060d8a29bb6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "bb6ef426b61a4e82d13e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 331419,
+      "sizes": {
+        "javascript": 331419
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "394.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "4204a27d7a782d120ab1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 109242,
+      "sizes": {
+        "javascript": 109242
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "402.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "8f578c583d2b5cb1920f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "c5df6b94b756d6cb1fd9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 34600,
+      "sizes": {
+        "javascript": 34600
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "499.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c678ba787f3c5cc21dff",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 15891,
+      "sizes": {
+        "javascript": 15891
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "532.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7402a39ceeef328e5b5c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 134995,
+      "sizes": {
+        "javascript": 134995
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "552.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "f3b30d61ed978b60881d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 557,
+      "sizes": {
+        "javascript": 557
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "1c2f375058b144dd758d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1439493,
+      "sizes": {
+        "javascript": 1439493
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "600.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "cb697b45f5a2c3789c3a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3660,
+      "sizes": {
+        "javascript": 3660
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "622.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "bf9d8a42fc9070ef9c19",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 615977,
+      "sizes": {
+        "javascript": 615977
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "635.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d021f6841a3336e29dc3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "28ad6e0c9ddbc302bcc7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 12,
+      "sizes": {
+        "javascript": 12
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "757.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "beb93ae1bd38cb1de33b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8973,
+      "sizes": {
+        "javascript": 8973
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "784.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "47678f673672027e0a62",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 763779,
+      "sizes": {
+        "javascript": 763779
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "806.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d63b080c2a9e024bbdd3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 90248,
+      "sizes": {
+        "javascript": 90248
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "817.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a457463fd16627f47621",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 21754,
+      "sizes": {
+        "javascript": 21712,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "845.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "e79604348078853a1596",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 764184,
+      "sizes": {
+        "javascript": 764184
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "858.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "99ab7ced805f27c6cc61",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 722305,
+      "sizes": {
+        "javascript": 722305
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "863.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "3c6a902208e9a100c0df",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6570,
+      "sizes": {
+        "javascript": 6570
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "879.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "f718602b52aa4f7d8a98",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "b08eaecc59e5eb91201e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 21179,
+      "sizes": {
+        "javascript": 21179
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-conditions-app"
+      ],
+      "files": [
+        "983.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "bc7529d301d71139145e",
+      "childrenByOrder": {}
+    }
+  ]
+}

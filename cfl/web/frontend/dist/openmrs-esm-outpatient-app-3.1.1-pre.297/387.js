@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_openmrs_esm_outpatient_app=self.webpackChunk_openmrs_esm_outpatient_app||[]).push([[387],{8387:(t,e,n)=>{n.r(e),n.d(e,{default:()=>i});var a=n(9902),p=n.n(a),u=n(3066),r=n(4924),s=n(8179);function i(){var t=(0,r.useTranslation)().t;return p().createElement(u.ConfigurableLink,{to:s.JB},t("outpatient","Outpatient"))}}}]);

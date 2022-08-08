@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_openmrs_esm_patient_appointments_app=self.webpackChunk_openmrs_esm_patient_appointments_app||[]).push([[358],{2358:(e,t,n)=>{n.r(t),n.d(t,{default:()=>i});var p=n(9902),a=n.n(p),s=n(893);const i=function(e){var t=e.patientUuid;return a().createElement(s.Z,{patientUuid:t})}}}]);

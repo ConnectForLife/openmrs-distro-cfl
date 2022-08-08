@@ -7,6 +7,9 @@ VOLUME /usr/local/tomcat/.OpenMRS
 
 COPY openmrs.war  /usr/local/tomcat/webapps/openmrs.war
 
+# Copy OMRS 3.x frontend
+COPY frontend/dist /opt/openmrs-frontend
+
 COPY modules /opt/openmrs-modules
 COPY owa /opt/openmrs-owa
 COPY cfl-modules /opt/cfl-modules

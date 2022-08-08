@@ -1,0 +1,788 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 14959,
+      "sizes": {
+        "javascript": 14959
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "26.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b4fd7272adf4f803f6c4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 13127,
+      "sizes": {
+        "javascript": 13127
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "49.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "5dbd71ff52e16cb5b81b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 82988,
+      "sizes": {
+        "javascript": 82946,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "93.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d60676c0434d42287519",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 32212,
+      "sizes": {
+        "javascript": 32212
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "142.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7633e4e66b8cac9990bf",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 20676,
+      "sizes": {
+        "javascript": 20676
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "172.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "938ea7975a023c36b682",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 544098,
+      "sizes": {
+        "javascript": 544098
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "195.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b97519780ca257147b81",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 470311,
+      "sizes": {
+        "javascript": 470311
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "209.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d9c8b887311c5c517b2c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 300026,
+      "sizes": {
+        "javascript": 300026
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "230.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "e83a2728f9ea2924a407",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 24471,
+      "sizes": {
+        "javascript": 3409,
+        "share-init": 378,
+        "runtime": 20684
+      },
+      "names": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "openmrs-esm-patient-allergies-app.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "8419a76f03b6c272f56e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39074,
+      "sizes": {
+        "javascript": 39074
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "337.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c79cfb09d4b722a87d37",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 46132,
+      "sizes": {
+        "javascript": 46132
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "366.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "e938b36191202284356d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 38100,
+      "sizes": {
+        "javascript": 38100
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "379.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "ac9223ed341f2e0a680c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "02b057d8bbf49e58d8a3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 109242,
+      "sizes": {
+        "javascript": 109242
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "402.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "48f4a49c327a5c0e9dac",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6004,
+      "sizes": {
+        "javascript": 6004
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "435.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "0ed28764368e42781ad3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "59c6cb34b062bdfa45a0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 22371,
+      "sizes": {
+        "javascript": 22329,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "455.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a872b0d6532f14a4930c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 756707,
+      "sizes": {
+        "javascript": 756707
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "482.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "e83d05d89e2683d71020",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 37820,
+      "sizes": {
+        "javascript": 37820
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "499.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "5d78a2656814f083e277",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 456936,
+      "sizes": {
+        "javascript": 456936
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "563.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "1ad488f685dd99a7f001",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1407,
+      "sizes": {
+        "javascript": 1407
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a2848d1b2ad980ef199f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 250820,
+      "sizes": {
+        "javascript": 250820
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "618.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c5082a31f8ece9669243",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3660,
+      "sizes": {
+        "javascript": 3660
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "622.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "f292924070486da29c1d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 615977,
+      "sizes": {
+        "javascript": 615977
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "635.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a0c927a0d3259fd7a5fa",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 21994,
+      "sizes": {
+        "javascript": 21952,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "651.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a74e32fdcb5ce427acc3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1443830,
+      "sizes": {
+        "javascript": 1443830
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "732.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "ad79b0afee8541a5589e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 84,
+      "sizes": {
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "337c0b2d890a584f859e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 12,
+      "sizes": {
+        "javascript": 12
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "757.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7fc680ca5f5098a77bea",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8973,
+      "sizes": {
+        "javascript": 8973
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "784.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "3fdf7851462a3535980e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 90248,
+      "sizes": {
+        "javascript": 90248
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "817.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b30e4f33963fe50d0ae6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 18847,
+      "sizes": {
+        "javascript": 18847
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "841.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "0958047c080a6dba399a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 764184,
+      "sizes": {
+        "javascript": 764184
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "858.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c46ccd94f2ad1a234632",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 125692,
+      "sizes": {
+        "javascript": 125692
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "872.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "97073191f8b6332c61c5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6570,
+      "sizes": {
+        "javascript": 6570
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [
+        "879.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "42d99d10a9aa3e7e1ca4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-patient-allergies-app"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "4200047f795cb666fbc8",
+      "childrenByOrder": {}
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_openmrs_esm_fast_data_entry_app=self.webpackChunk_openmrs_esm_fast_data_entry_app||[]).push([[776],{5776:(e,a,n)=>{n.r(a),n.d(a,{default:()=>_});var s=n(4211),r=n.n(s),t=n(3397),p=n(311);function _(){var e=(0,t.useTranslation)().t;return r().createElement(p.ConfigurableLink,{to:"${openmrsSpaBase}/forms"},e("formsAppMenuLink","Forms"))}}}]);
