@@ -3,6 +3,8 @@ FROM tomcat:7-jre8
 RUN rm -rf /usr/local/tomcat/webapps/ROOT
 ADD ./ROOT /usr/local/tomcat/webapps/ROOT
 
+ADD ./formbuilder /usr/local/tomcat/webapps/formbuilder
+
 VOLUME /usr/local/tomcat/.OpenMRS
 
 COPY openmrs.war  /usr/local/tomcat/webapps/openmrs.war
