@@ -1,0 +1,561 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 161617,
+      "sizes": {
+        "javascript": 161617
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "102.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "023646eeb9fffeea3d1e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 15391,
+      "sizes": {
+        "javascript": 15391
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "138.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7e7708e36c52974b213b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 39262,
+      "sizes": {
+        "javascript": 39262
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "146.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "1ac6d04420beb0c04a34",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 27388,
+      "sizes": {
+        "consume-shared": 126,
+        "javascript": 7194,
+        "share-init": 168,
+        "runtime": 19900
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d36ffcfc72621d0087e2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4996,
+      "sizes": {
+        "javascript": 4996
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "246.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "fa98e0b7f2250a109882",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 20184,
+      "sizes": {
+        "javascript": 20184
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "280.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "054517cf2ca6ed2d65c0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7278,
+      "sizes": {
+        "consume-shared": 84,
+        "javascript": 7194
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app"
+      ],
+      "files": [
+        "284.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "593af1a31f3c9a1c4a72",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1865271,
+      "sizes": {
+        "javascript": 1865271
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "304.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "1350234a400a9c10f830",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 649,
+      "sizes": {
+        "javascript": 649
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "319.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b9467a6b310ffc1c3f55",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 151586,
+      "sizes": {
+        "javascript": 151586
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "326.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "5050afedd91bd186323f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 19732,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 168,
+        "runtime": 19522
+      },
+      "names": [
+        "@openmrs/esm-implementer-tools-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app"
+      ],
+      "files": [
+        "openmrs-esm-implementer-tools-app.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "13b164433798058d8b03",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 139751,
+      "sizes": {
+        "javascript": 139751
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "406.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "2172792a9eafd78dd886",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 66883,
+      "sizes": {
+        "javascript": 66883
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "458.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "ce6317232e940a41deb7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "85eea5d40833b23028ca",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 12470,
+      "sizes": {
+        "javascript": 12470
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "519.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7e9fb18a9e95294180cb",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6187,
+      "sizes": {
+        "javascript": 6187
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "531.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "4161f4266d0a1ef0dba2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "aeb08261d4bc94bd0f0e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 660,
+      "sizes": {
+        "javascript": 660
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "2fb8ff5a1e12d4684363",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 936396,
+      "sizes": {
+        "javascript": 936396
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "620.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "0bf056bcf90468130318",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "735.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "84e6e5b220e4c7a5f032",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "3847636433068c0882db",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 137533,
+      "sizes": {
+        "javascript": 137533
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "788.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c88292a8b5abc1fcc33e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 1124085,
+      "sizes": {
+        "javascript": 1124085
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "889.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "37203cd7d41f1aa61c2e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 288100,
+      "sizes": {
+        "javascript": 288100
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-implementer-tools-app",
+        "main"
+      ],
+      "files": [
+        "895.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "dc17c73514a792ef9a25",
+      "childrenByOrder": {}
+    }
+  ]
+}

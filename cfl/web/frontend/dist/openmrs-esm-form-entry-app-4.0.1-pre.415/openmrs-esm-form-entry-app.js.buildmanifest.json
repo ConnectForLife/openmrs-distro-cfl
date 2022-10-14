@@ -1,0 +1,92 @@
+{
+  "errors": [],
+  "warnings": [
+    "/home/runner/work/openmrs-esm-patient-chart/openmrs-esm-patient-chart/packages/esm-form-entry-app/src/app/openmrs-api/provider-resource.service.mock.ts is part of the TypeScript compilation but it's unused.\nAdd only entry points to the 'files' or 'include' properties in your tsconfig.",
+    "/home/runner/work/openmrs-esm-patient-chart/openmrs-esm-patient-chart/packages/esm-form-entry-app/src/index.ts depends on 'zone.js/dist/zone'. CommonJS or AMD dependencies can cause optimization bailouts.\nFor more info see: https://angular.io/guide/build#configuring-commonjs-dependencies",
+    "/home/runner/work/openmrs-esm-patient-chart/openmrs-esm-patient-chart/node_modules/single-spa-angular/__ivy_ngcc__/fesm2015/single-spa-angular.js depends on 'single-spa-angular/internals'. CommonJS or AMD dependencies can cause optimization bailouts.\nFor more info see: https://angular.io/guide/build#configuring-commonjs-dependencies",
+    "/home/runner/work/openmrs-esm-patient-chart/openmrs-esm-patient-chart/node_modules/@openmrs/ngx-formentry/__ivy_ngcc__/fesm2015/openmrs-ngx-formentry.js depends on 'lodash'. CommonJS or AMD dependencies can cause optimization bailouts.\nFor more info see: https://angular.io/guide/build#configuring-commonjs-dependencies"
+  ],
+  "chunks": [
+    {
+      "id": 0,
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 4696022,
+      "names": [
+        "main"
+      ],
+      "files": [
+        "openmrs-esm-form-entry-app.js"
+      ],
+      "hash": "a1012e0df8a933f47229",
+      "siblings": [],
+      "parents": [],
+      "children": [
+        1,
+        2,
+        3
+      ],
+      "childrenByOrder": {}
+    },
+    {
+      "id": 1,
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: vendors)",
+      "size": 342648,
+      "names": [],
+      "files": [
+        "1.openmrs-esm-form-entry-app.js"
+      ],
+      "hash": "b5b769e8466e11dde3a3",
+      "siblings": [
+        2
+      ],
+      "parents": [
+        0
+      ],
+      "children": [],
+      "childrenByOrder": {}
+    },
+    {
+      "id": 2,
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 96691,
+      "names": [],
+      "files": [
+        "2.openmrs-esm-form-entry-app.js"
+      ],
+      "hash": "bb2663430e364d613d50",
+      "siblings": [
+        1
+      ],
+      "parents": [
+        0
+      ],
+      "children": [],
+      "childrenByOrder": {}
+    },
+    {
+      "id": 3,
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 2,
+      "names": [],
+      "files": [
+        "3.openmrs-esm-form-entry-app.js"
+      ],
+      "hash": "d7450e0d166ed5e1dad9",
+      "siblings": [],
+      "parents": [
+        0
+      ],
+      "children": [],
+      "childrenByOrder": {}
+    }
+  ]
+}

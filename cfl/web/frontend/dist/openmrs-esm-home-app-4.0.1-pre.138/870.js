@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_openmrs_esm_home_app=self.webpackChunk_openmrs_esm_home_app||[]).push([[870],{870:(e,n,s)=>{s.r(n),s.d(n,{default:()=>i});var t=s(268),a=s.n(t),r=s(906),m=s(924);function i(){var e=(0,m.useTranslation)().t;return a().createElement(r.ConfigurableLink,{to:"${openmrsBase}/admin"},e("systemAdministration","System Administration"))}}}]);

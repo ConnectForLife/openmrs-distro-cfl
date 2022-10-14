@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_openmrs_esm_patient_queue_app=self.webpackChunk_openmrs_esm_patient_queue_app||[]).push([[537],{8394:(e,t,n)=>{n.d(t,{JB:()=>a}),window.getOpenmrsSpaBase;const a=`${window.spaBase}/outpatient`},4537:(e,t,n)=>{n.r(t),n.d(t,{default:()=>o});var a=n(9902),p=n.n(a),s=n(9035),u=n(4924),i=n(8394);function o(){const{t:e}=(0,u.useTranslation)();return p().createElement(s.ConfigurableLink,{to:i.JB},e("outpatient","Outpatient"))}}}]);
-//# sourceMappingURL=537.js.map

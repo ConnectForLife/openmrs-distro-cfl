@@ -1,0 +1,330 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2454210,
+      "sizes": {
+        "javascript": 2454210
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-dispensing-app",
+        "main"
+      ],
+      "files": [
+        "36.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a7b0f1ebe41d832dc839",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 22548,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 2386,
+        "share-init": 210,
+        "runtime": 19910
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "1e0d991d3abf5bf71487",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 39248,
+      "sizes": {
+        "javascript": 39248
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-dispensing-app",
+        "main"
+      ],
+      "files": [
+        "247.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "98ec0571982d8feb2a0e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-dispensing-app",
+        "main"
+      ],
+      "files": [
+        "294.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "991cbae78180e8b87124",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2428,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 2386
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-dispensing-app"
+      ],
+      "files": [
+        "299.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c68d77a1d5f3cdc41e54",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-dispensing-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "fefa84763a167651af82",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6570,
+      "sizes": {
+        "javascript": 6570
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-dispensing-app",
+        "main"
+      ],
+      "files": [
+        "484.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "fcc65d89b0ffee536104",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1079,
+      "sizes": {
+        "javascript": 1079
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-dispensing-app",
+        "main"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "1ff513e9fce8ed227591",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 417361,
+      "sizes": {
+        "javascript": 417361
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-dispensing-app",
+        "main"
+      ],
+      "files": [
+        "595.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c76e7444ad25346fab1b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 116045,
+      "sizes": {
+        "javascript": 115961,
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-dispensing-app",
+        "main"
+      ],
+      "files": [
+        "625.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "22ce57e21bb363fc440c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-dispensing-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "22900a8e8ad030c560b6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 539,
+      "sizes": {
+        "javascript": 539
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-dispensing-app",
+        "main"
+      ],
+      "files": [
+        "781.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "0759b2c310a8751d07eb",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 137533,
+      "sizes": {
+        "javascript": 137533
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-dispensing-app",
+        "main"
+      ],
+      "files": [
+        "935.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "4724329417fa47ea5aed",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 19795,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 210,
+        "runtime": 19543
+      },
+      "names": [
+        "@openmrs/esm-dispensing-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-dispensing-app"
+      ],
+      "files": [
+        "openmrs-esm-dispensing-app.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "fab282aa574dda5bdebc",
+      "childrenByOrder": {}
+    }
+  ]
+}

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_openmrs_esm_patient_test_results_app=self.webpackChunk_openmrs_esm_patient_test_results_app||[]).push([[0],[(e,s,t)=>{t.d(s,{Z:()=>n});var _=t(9171);const n=function(e){return e&&e.length?(0,_.Z)(e):[]}}]]);

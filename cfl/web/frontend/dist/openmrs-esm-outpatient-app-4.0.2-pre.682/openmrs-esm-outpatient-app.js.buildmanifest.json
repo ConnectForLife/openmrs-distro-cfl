@@ -1,0 +1,718 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 230065,
+      "sizes": {
+        "javascript": 230065
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "29.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "4c0c99965daddbca4e12",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 11010,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 10968
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app"
+      ],
+      "files": [
+        "40.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "6be01370d23560abd0b7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 15117,
+      "sizes": {
+        "javascript": 15117
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "94.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b35557baa8e4f0688a9e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 10811,
+      "sizes": {
+        "javascript": 10811
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "121.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d6d0cadd247977f66f44",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 2883064,
+      "sizes": {
+        "consume-shared": 84,
+        "javascript": 2863172,
+        "share-init": 168,
+        "runtime": 19640
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "cd8eedcba70ea47e9354",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 30664,
+      "sizes": {
+        "javascript": 30664
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "196.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "bca2e3f67f092f3112b9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "26c4b55da91285665feb",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 286,
+      "sizes": {
+        "javascript": 286
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "242.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "195bfdad3a28b0c82d25",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 67740,
+      "sizes": {
+        "javascript": 67740
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "290.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "44f33092c7c7cfe4b4b5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 12,
+      "sizes": {
+        "javascript": 12
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "319.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d38ad5f4fdbd252b5648",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 10026,
+      "sizes": {
+        "javascript": 10026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "324.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a45b92081cba7dd2cd9f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 38898,
+      "sizes": {
+        "javascript": 38898
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "352.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "f255ed0778d5d8c3d185",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 386,
+      "sizes": {
+        "javascript": 386
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "387.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b422f797f4eba7e9b644",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 75942,
+      "sizes": {
+        "javascript": 75942
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "485.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "e2da267dc1078a297d3b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6992,
+      "sizes": {
+        "javascript": 6992
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "082436cc49267c3b5424",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 2860515,
+      "sizes": {
+        "javascript": 2860515
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-outpatient-app"
+      ],
+      "files": [
+        "577.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "9a0956aea36d78991880",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 38799,
+      "sizes": {
+        "javascript": 38799
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "650.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b5b6b2d514cfcbebb34c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 27105,
+      "sizes": {
+        "javascript": 27105
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "655.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d2560d14a65702a99e5e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 53823,
+      "sizes": {
+        "javascript": 53823
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "693.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "596befc20a03d4081b66",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 58950,
+      "sizes": {
+        "javascript": 58950
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "704.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "bbfe0c34bedb2c0a058a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 65861,
+      "sizes": {
+        "javascript": 65861
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "711.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "f77f1551d41989bf8a00",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 167005,
+      "sizes": {
+        "javascript": 167005
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "717.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "896c1b2baceb8dd13eb3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "784.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "04320f14d3f6857232b4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 19460,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 168,
+        "runtime": 19250
+      },
+      "names": [
+        "@openmrs/esm-outpatient-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app"
+      ],
+      "files": [
+        "openmrs-esm-outpatient-app.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "ddfc92164376877239d1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39248,
+      "sizes": {
+        "javascript": 39248
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "843.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c3d527def5c6804dc52d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 417794,
+      "sizes": {
+        "javascript": 417794
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "858.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c4c5be8c7ff9a88f3812",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 42286,
+      "sizes": {
+        "javascript": 42286
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "885.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "4458975463ae32bf2882",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 418,
+      "sizes": {
+        "javascript": 418
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "896.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "26083f4da89ecfa8ad1b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "0792913dcfbd3adf7f2b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 40611,
+      "sizes": {
+        "javascript": 40569,
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "937.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "46d0e4f14df17e7234ac",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8887,
+      "sizes": {
+        "javascript": 8887
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-outpatient-app",
+        "main"
+      ],
+      "files": [
+        "945.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "35ed6d140a398f2cdd44",
+      "childrenByOrder": {}
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 77808,
+      "sizes": {
+        "javascript": 77808
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "50.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7076e716ba13eff986c1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 25908,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 5878,
+        "share-init": 210,
+        "runtime": 19778
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "2e95b22f72b9f852dc65",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1013409,
+      "sizes": {
+        "javascript": 1013409
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "225.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b187f97c6259d739b301",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 228,
+      "sizes": {
+        "javascript": 228
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "236.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "e99897d0c0def9faac95",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 228,
+      "sizes": {
+        "javascript": 228
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "240.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "362ca754561895ca8959",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 216,
+      "sizes": {
+        "javascript": 216
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "272.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "8a3e9f9892f0b43be094",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 413,
+      "sizes": {
+        "javascript": 413
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "319.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "ad9f22275f0db4adb397",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 77,
+      "sizes": {
+        "javascript": 77
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "336.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c5c1ab5f99705312d8ab",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 19663,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 210,
+        "runtime": 19411
+      },
+      "names": [
+        "@openmrs/esm-login-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app"
+      ],
+      "files": [
+        "openmrs-esm-login-app.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "bdb4a21963f5cb29c9de",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 167005,
+      "sizes": {
+        "javascript": 167005
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "390.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "841253b7fcce076164f4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 5265,
+      "sizes": {
+        "javascript": 5265
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "406.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "0e7028be2e90de03ef2a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 5920,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 5878
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app"
+      ],
+      "files": [
+        "420.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c2d28ee2791186fecfe9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 179805,
+      "sizes": {
+        "javascript": 179805
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "521.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "1b14909752cbd8d5c154",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 286,
+      "sizes": {
+        "javascript": 286
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "539.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "3568ff73eac2467e623c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 614,
+      "sizes": {
+        "javascript": 614
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a942fa2da105305082ed",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 21394,
+      "sizes": {
+        "javascript": 21394
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "607.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b5b293543ddb4960de74",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 155,
+      "sizes": {
+        "javascript": 155
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "644.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d1543f6a915087b4c942",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 68158,
+      "sizes": {
+        "javascript": 68158
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "661.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "2a0a2ff0accb4c225891",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 210,
+      "sizes": {
+        "javascript": 210
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "673.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "97e5edee5d06dbb5582b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "efa3dd3506470f6fb0e1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "735.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "9ba30cde99d22c5c00f1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 247,
+      "sizes": {
+        "javascript": 247
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "757.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "2675ffb6c8648b87b859",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "67e50e99c6348ecaac94",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 137533,
+      "sizes": {
+        "javascript": 137533
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "788.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "1b7e24263e11d0a78eff",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1124085,
+      "sizes": {
+        "javascript": 1124085
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "889.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "24577af147372adb6765",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 30704,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 30662
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "897.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b4e58eab51faa3506bb4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 39262,
+      "sizes": {
+        "javascript": 39262
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "925.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "5f8d1f8afbe0d6ea8a07",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 6681,
+      "sizes": {
+        "javascript": 6681
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-login-app",
+        "main"
+      ],
+      "files": [
+        "951.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "053dbac7669899b56864",
+      "childrenByOrder": {}
+    }
+  ]
+}

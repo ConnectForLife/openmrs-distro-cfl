@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_openmrs_esm_patient_chart_app=self.webpackChunk_openmrs_esm_patient_chart_app||[]).push([[2757],{2757:e=>{e.exports={}}}]);
