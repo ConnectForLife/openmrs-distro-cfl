@@ -5,7 +5,6 @@ services:
     image: mysql:5.7
     command: mysqld --sql_mode="STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION" --character-set-server=utf8 --collation-server=utf8_general_ci
     restart: always
-    command: "mysqld --character-set-server=utf8 --collation-server=utf8_general_ci"
     environment:
       MYSQL_DATABASE: openmrs
       MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
@@ -13,9 +12,9 @@ services:
       MYSQL_PASSWORD: ${DB_PASSWORD}
     volumes:
       - db-data:/var/lib/mysql
+      - ./db-init-data:/docker-entrypoint-initdb.d
     ports:
       - "${MYSQL_DEV_PORT}:3306"
-      - ./db-init-data:/docker-entrypoint-initdb.d
 
   web:
     depends_on:
