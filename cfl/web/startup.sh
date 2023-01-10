@@ -18,6 +18,8 @@ mkdir -p $OPENMRS_HOME/frontend
 rm -rf $OPENMRS_HOME/modules/*
 rm -rf $OPENMRS_HOME/owa/*
 
+rm -rf $OPENMRS_HOME/modules/*
+
 echo 'Copying OpenMRS modules'
 cp -r /opt/openmrs-modules/* $OPENMRS_HOME/modules/
 
@@ -52,7 +54,7 @@ mkdir -p ~/modules
 # Create OpenMRS installation script - see setenv.sh
 cat > /usr/local/tomcat/openmrs-server.properties << EOF
 install_method=auto
-connection.url=jdbc\:mysql\://${DB_HOST}\:3306/${DB_DATABASE}?autoReconnect\=true&sessionVariables\=default_storage_engine\=InnoDB&useUnicode\=true&characterEncoding\=UTF-8
+connection.url=jdbc\:mysql\://${DB_HOST}\:3306/${DB_DATABASE}?autoReconnect\=true&sessionVariables\=default_storage_engine\=InnoDB&useUnicode\=true&characterEncoding\=UTF-8&useSSL\=false
 connection.username=${DB_USERNAME}
 connection.password=${DB_PASSWORD}
 has_current_openmrs_database=true
