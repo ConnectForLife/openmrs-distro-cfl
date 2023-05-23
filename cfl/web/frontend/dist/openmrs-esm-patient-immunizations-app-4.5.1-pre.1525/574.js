@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_patient_immunizations_app=globalThis.webpackChunk_openmrs_esm_patient_immunizations_app||[]).push([[574],{3574:p=>{p.exports={}}}]);

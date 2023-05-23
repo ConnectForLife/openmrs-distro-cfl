@@ -1,0 +1,283 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 19448,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 168,
+        "runtime": 19238
+      },
+      "names": [
+        "@openmrs/esm-openconceptlab-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-openconceptlab-app"
+      ],
+      "files": [
+        "openmrs-esm-openconceptlab-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-openconceptlab-app.js.map"
+      ],
+      "hash": "b75432d32a0830bf",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 22072,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 2257,
+        "share-init": 168,
+        "runtime": 19605
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "296608988903dfbc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-openconceptlab-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "ecf4466ab7351f1a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2299,
+      "sizes": {
+        "consume-shared": 42,
+        "javascript": 2257
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-openconceptlab-app"
+      ],
+      "files": [
+        "293.js"
+      ],
+      "auxiliaryFiles": [
+        "293.js.map"
+      ],
+      "hash": "2f48f8314f221e0e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 137533,
+      "sizes": {
+        "javascript": 137533
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-openconceptlab-app",
+        "main"
+      ],
+      "files": [
+        "316.js"
+      ],
+      "auxiliaryFiles": [
+        "316.js.map"
+      ],
+      "hash": "a95a69c13b790c31",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2510,
+      "sizes": {
+        "javascript": 2510
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-openconceptlab-app",
+        "main"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c5e45d634bffd099",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 39248,
+      "sizes": {
+        "javascript": 39248
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-openconceptlab-app",
+        "main"
+      ],
+      "files": [
+        "588.js"
+      ],
+      "auxiliaryFiles": [
+        "588.js.map"
+      ],
+      "hash": "7741300e79c7272f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 84105,
+      "sizes": {
+        "consume-shared": 84,
+        "javascript": 84021
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-openconceptlab-app",
+        "main"
+      ],
+      "files": [
+        "596.js"
+      ],
+      "auxiliaryFiles": [
+        "596.js.map"
+      ],
+      "hash": "c671f016401afe42",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-openconceptlab-app",
+        "main"
+      ],
+      "files": [
+        "784.js"
+      ],
+      "auxiliaryFiles": [
+        "784.js.map"
+      ],
+      "hash": "4ab6f05ad9148a59",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 395437,
+      "sizes": {
+        "javascript": 395437
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-openconceptlab-app",
+        "main"
+      ],
+      "files": [
+        "858.js"
+      ],
+      "auxiliaryFiles": [
+        "858.js.map"
+      ],
+      "hash": "c84394f2f2f2022d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1809498,
+      "sizes": {
+        "javascript": 1809498
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-openconceptlab-app",
+        "main"
+      ],
+      "files": [
+        "877.js"
+      ],
+      "auxiliaryFiles": [
+        "877.js.map"
+      ],
+      "hash": "d60057d22d9ad7d4",
+      "childrenByOrder": {}
+    }
+  ]
+}

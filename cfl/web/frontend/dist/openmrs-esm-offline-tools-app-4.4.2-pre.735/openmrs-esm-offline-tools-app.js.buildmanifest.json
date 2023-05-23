@@ -1,0 +1,754 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 36042,
+      "sizes": {
+        "javascript": 36042
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "47.js"
+      ],
+      "auxiliaryFiles": [
+        "47.js.map"
+      ],
+      "hash": "0ab297cfb12e21d5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 182145,
+      "sizes": {
+        "javascript": 182145
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "63.js"
+      ],
+      "auxiliaryFiles": [
+        "63.js.map"
+      ],
+      "hash": "46eb5f010d5e2e68",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 34991,
+      "sizes": {
+        "javascript": 34991
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "78.js"
+      ],
+      "auxiliaryFiles": [
+        "78.js.map"
+      ],
+      "hash": "a2915f0e4e5773ba",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 1834581,
+      "sizes": {
+        "javascript": 1834581
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app"
+      ],
+      "files": [
+        "82.js"
+      ],
+      "auxiliaryFiles": [
+        "82.js.map"
+      ],
+      "hash": "29f35927c0fffe4d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 1583389,
+      "sizes": {
+        "consume-shared": 252,
+        "javascript": 1562834,
+        "share-init": 210,
+        "runtime": 20093
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "d3f04b34fbbc85cc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 69054,
+      "sizes": {
+        "javascript": 69054
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "206.js"
+      ],
+      "auxiliaryFiles": [
+        "206.js.map"
+      ],
+      "hash": "4ee2855a52fb6d40",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 39276,
+      "sizes": {
+        "javascript": 39276
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "263.js"
+      ],
+      "auxiliaryFiles": [
+        "263.js.map"
+      ],
+      "hash": "5bdb624e33f26805",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 61608,
+      "sizes": {
+        "javascript": 61398,
+        "consume-shared": 210
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app"
+      ],
+      "files": [
+        "264.js"
+      ],
+      "auxiliaryFiles": [
+        "264.js.map"
+      ],
+      "hash": "39ba0ad47c626c2f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 141538,
+      "sizes": {
+        "javascript": 141538
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "281.js"
+      ],
+      "auxiliaryFiles": [
+        "281.js.map"
+      ],
+      "hash": "b5ac93792fbcf1dc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 153169,
+      "sizes": {
+        "javascript": 153169
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "290.js"
+      ],
+      "auxiliaryFiles": [
+        "290.js.map"
+      ],
+      "hash": "a54f1078211cf36a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 11850,
+      "sizes": {
+        "javascript": 11850
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "316.js"
+      ],
+      "auxiliaryFiles": [
+        "316.js.map"
+      ],
+      "hash": "285ca06f3cbd8e54",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 576,
+      "sizes": {
+        "javascript": 576
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "391.js"
+      ],
+      "auxiliaryFiles": [
+        "391.js.map"
+      ],
+      "hash": "9e570b454635e2d7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 12518,
+      "sizes": {
+        "javascript": 12518
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "412.js"
+      ],
+      "auxiliaryFiles": [
+        "412.js.map"
+      ],
+      "hash": "a05c4095d87bdc67",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 197210,
+      "sizes": {
+        "javascript": 197210
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "501.js"
+      ],
+      "auxiliaryFiles": [
+        "501.js.map"
+      ],
+      "hash": "32af04d7ad3d6ca4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 105593,
+      "sizes": {
+        "javascript": 103604,
+        "asset": 1989
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "526.js"
+      ],
+      "auxiliaryFiles": [
+        "1584c81d564cacde.svg",
+        "526.js.map"
+      ],
+      "hash": "e0afb4b1fd4c8c46",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 36552,
+      "sizes": {
+        "javascript": 36552
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "538.js"
+      ],
+      "auxiliaryFiles": [
+        "538.js.map"
+      ],
+      "hash": "724d68fb07c2b1b6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1437,
+      "sizes": {
+        "javascript": 1437
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "541.js"
+      ],
+      "auxiliaryFiles": [
+        "541.js.map"
+      ],
+      "hash": "a399956a7b10aea9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3365,
+      "sizes": {
+        "javascript": 3365
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "574.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "031bc7ea1f1cf7c4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 19976,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 210,
+        "runtime": 19724
+      },
+      "names": [
+        "@openmrs/esm-offline-tools-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app"
+      ],
+      "files": [
+        "openmrs-esm-offline-tools-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-offline-tools-app.js.map"
+      ],
+      "hash": "da368cf7390e8c15",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 72896,
+      "sizes": {
+        "javascript": 72896
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "594.js"
+      ],
+      "auxiliaryFiles": [
+        "594.js.map"
+      ],
+      "hash": "bca6c91276ef6a76",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 68120,
+      "sizes": {
+        "javascript": 68120
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "697.js"
+      ],
+      "auxiliaryFiles": [
+        "697.js.map"
+      ],
+      "hash": "f33accd3bc244f06",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 386,
+      "sizes": {
+        "javascript": 386
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "733.js"
+      ],
+      "auxiliaryFiles": [
+        "733.js.map"
+      ],
+      "hash": "6cf116cb0421b250",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 7103,
+      "sizes": {
+        "javascript": 7103
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "735.js"
+      ],
+      "auxiliaryFiles": [
+        "735.js.map"
+      ],
+      "hash": "f4eaeba7142d3b87",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 43595,
+      "sizes": {
+        "javascript": 43595
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "752.js"
+      ],
+      "auxiliaryFiles": [
+        "752.js.map"
+      ],
+      "hash": "5b2825aaa86f928d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3575,
+      "sizes": {
+        "javascript": 3575
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "757.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b66fb66ee3b80cd7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "fe51e2b925727c30",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 137533,
+      "sizes": {
+        "javascript": 137533
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "788.js"
+      ],
+      "auxiliaryFiles": [
+        "788.js.map"
+      ],
+      "hash": "dea2d76b65758e2a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 1106068,
+      "sizes": {
+        "javascript": 1106068
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "889.js"
+      ],
+      "auxiliaryFiles": [
+        "889.js.map"
+      ],
+      "hash": "3f8d73ac1fe1cddf",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 36791,
+      "sizes": {
+        "javascript": 36791
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "937.js"
+      ],
+      "auxiliaryFiles": [
+        "937.js.map"
+      ],
+      "hash": "e0545487fb24e1c6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 145611,
+      "sizes": {
+        "javascript": 145611
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-offline-tools-app",
+        "main"
+      ],
+      "files": [
+        "967.js"
+      ],
+      "auxiliaryFiles": [
+        "967.js.map"
+      ],
+      "hash": "3bfc795b23319d5f",
+      "childrenByOrder": {}
+    }
+  ]
+}
