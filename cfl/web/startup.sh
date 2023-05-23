@@ -17,8 +17,7 @@ mkdir -p $OPENMRS_HOME/frontend
 # Clean the directories from old modules/versions
 rm -rf $OPENMRS_HOME/modules/*
 rm -rf $OPENMRS_HOME/owa/*
-
-rm -rf $OPENMRS_HOME/modules/*
+rm -rf $OPENMRS_HOME/frontend/*
 
 echo 'Copying OpenMRS modules'
 cp -r /opt/openmrs-modules/* $OPENMRS_HOME/modules/
@@ -27,7 +26,6 @@ echo 'Copying OpenMRS OWA apps'
 cp -r /opt/openmrs-owa/* $OPENMRS_HOME/owa/
 
 echo 'Copying OpenMRS 3.x frontend'
-rm -rf $OPENMRS_HOME/frontend/*
 cp -r /opt/openmrs-frontend/* $OPENMRS_HOME/frontend/
 
 COPY_CFL_MODULES=${COPY_CFL_MODULES:-"true"}
