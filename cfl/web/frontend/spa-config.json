@@ -35,6 +35,7 @@
     "@openmrs/esm-fast-data-entry-app": "1.0.1-pre.117",
     "@openmrs/esm-cohort-builder-app": "3.0.1-pre.183",
     "@openmrs/esm-form-builder-app": "2.2.0",
-    "@openmrs/esm-reports-app": "next"
+    "@openmrs/esm-reports-app": "next",
+    "@openmrs/esm-sms-app": "next"
   }
 }
