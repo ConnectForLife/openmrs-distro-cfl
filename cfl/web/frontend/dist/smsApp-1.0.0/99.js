@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunksmsApp=globalThis.webpackChunksmsApp||[]).push([[99],{3099:s=>{s.exports=JSON.parse('{"smsConfiguration":"SMS Configuration","smsProviderSettings":"SMS Provider Settings"}')}}]);
