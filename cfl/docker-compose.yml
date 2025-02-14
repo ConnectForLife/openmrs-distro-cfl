@@ -14,10 +14,12 @@ services:
       - ./scripts/update-datetimes.sql:/docker-entrypoint-initdb.d/2.sql             # Move date-times to today
       - ./scripts/performance-workaround.sql:/docker-entrypoint-initdb.d/3.sql  # Adds materialized views
       - ./scripts/search-index-rebuild.sql:/docker-entrypoint-initdb.d/4.sql        # Cause search index to rebuild
+    ports:
+      - "${MYSQL_DEV_PORT}:3306"
 
   web:
     build: web
-    image: openmrscorecfl:9.0.2-public-demo
+    image: openmrscorecfl:9.0.3-public-demo
     depends_on:
       - db
     environment:
@@ -31,5 +33,6 @@ services:
       COPY_CFL_MODULES: 'false'
     ports:
       - "${TOMCAT_PORT}:8080"
+      - "${TOMCAT_DEV_DEBUG_PORT}:1044"
     volumes:
       - ~/.cfl/reports:/usr/local/tomcat/.OpenMRS/reports
