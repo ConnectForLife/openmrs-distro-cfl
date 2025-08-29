@@ -2,7 +2,7 @@ version: '2'
 
 services:
   web:
-    image: openmrscfldistroship:8.1.13-ship
+    image: openmrscfldistroship:8.1.14-ship
     container_name: cfl_ship_web_1
     restart: always
     logging:
@@ -18,11 +18,11 @@ services:
       MODULE_WEB_ADMIN: 'true'                # allow web admin on OpenMRS
       COPY_CFL_MODULES: 'true'                # Installs web/cfl-modules before startup
     volumes:
-      - web-data:/usr/local/tomcat/.OpenMRS
+      - ship-openmrs:/usr/local/tomcat/.OpenMRS
     ports:
       - "${TOMCAT_PORT}:8080"
     extra_hosts:
       - "host.docker.internal:host-gateway"
 
 volumes:
-  web-data:
+  ship-openmrs:

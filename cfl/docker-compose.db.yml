@@ -3,6 +3,7 @@ version: '2'
 services:
   db:
     image: mysql:8.0
+    container_name: cfl_ship_db_1
     command: mysqld --sql_mode="TRADITIONAL" --character-set-server=utf8 --collation-server=utf8_general_ci --log-bin-trust-function-creators=1
     restart: always
     environment:
@@ -11,7 +12,7 @@ services:
       MYSQL_USER: ${DB_USERNAME}
       MYSQL_PASSWORD: ${DB_PASSWORD}
     volumes:
-      - db-data:/var/lib/mysql
+      - ship-data:/var/lib/mysql
       - ./db-init-data:/docker-entrypoint-initdb.d
     ports:
       - "${MYSQL_DEV_PORT}:3306"
@@ -21,4 +22,4 @@ services:
       - db
 
 volumes:
-  db-data:
+  ship-data:
