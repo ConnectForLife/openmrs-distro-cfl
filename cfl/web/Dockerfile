@@ -1,5 +1,13 @@
 FROM tomcat:8.5.82-jdk8
 
+# Add M360 HTTPS Certificate
+RUN openssl s_client -showcerts -connect api.m360.com.ph:443 </dev/null 2>/dev/null | openssl x509 -outform DER > /tmp/m360.der \
+    && keytool -importcert -noprompt -alias m360_api \
+       -keystore $JAVA_HOME/jre/lib/security/cacerts \
+       -storepass changeit \
+       -file /tmp/m360.der \
+    && rm /tmp/m360.der
+
 RUN rm -rf /usr/local/tomcat/webapps/ROOT
 ADD ./ROOT /usr/local/tomcat/webapps/ROOT
 
