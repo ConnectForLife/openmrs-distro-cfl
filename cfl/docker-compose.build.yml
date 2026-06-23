@@ -3,4 +3,4 @@ version: '2'
 services:
   web:
     build: web
-    image: openmrscfldistroship:8.1.15-ship
+    image: openmrscfldistroship:8.1.16-ship
