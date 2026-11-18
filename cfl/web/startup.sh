@@ -5,6 +5,11 @@ DB_AUTO_UPDATE=${DB_AUTO_UPDATE:-false}
 MODULE_WEB_ADMIN=${MODULE_WEB_ADMIN:-true}
 DEBUG=${DEBUG:-false}
 DEV_MODE_MODULES=${DEV_MODE_MODULES:-"messages"}
+DB_SSL_MODE=${DB_SSL_MODE:-REQUIRED}
+case "$DB_SSL_MODE" in
+  DISABLED|PREFERRED|REQUIRED|VERIFY_CA|VERIFY_IDENTITY) ;;
+  *) echo "DB_SSL_MODE must be DISABLED, PREFERRED, REQUIRED, VERIFY_CA or VERIFY_IDENTITY, got: ${DB_SSL_MODE}"; exit 1 ;;
+esac
 
 OPENMRS_HOME=/usr/local/tomcat/.OpenMRS
 
@@ -52,7 +57,7 @@ mkdir -p ~/modules
 # Create OpenMRS installation script - see setenv.sh
 cat > /usr/local/tomcat/openmrs-server.properties << EOF
 install_method=auto
-connection.url=jdbc\:mysql\://${DB_HOST}\:3306/${DB_DATABASE}?autoReconnect\=true&sessionVariables\=default_storage_engine\=InnoDB&useUnicode\=true&characterEncoding\=UTF-8&useSSL\=false&allowPublicKeyRetrieval\=true
+connection.url=jdbc\:mysql\://${DB_HOST}\:3306/${DB_DATABASE}?autoReconnect\=true&sessionVariables\=default_storage_engine\=InnoDB&useUnicode\=true&characterEncoding\=UTF-8&sslMode\=${DB_SSL_MODE}&allowPublicKeyRetrieval\=true
 connection.username=${DB_USERNAME}
 connection.password=${DB_PASSWORD}
 has_current_openmrs_database=true
@@ -72,13 +77,31 @@ echo "-----------------------------------"
 # wait for mysql to initialise
 /usr/local/tomcat/wait-for-it.sh --timeout=3600 ${DB_HOST}:3306
 
-if [ $DEBUG ]; then
-    export JPDA_ADDRESS="1044"
-    export JPDA_TRANSPORT=dt_socket
+# Existing installs read the persisted runtime properties, not the installation script above: set the JDBC TLS mode
+# there before Tomcat starts. Any useSSL/sslMode parameter is dropped and exactly one sslMode is added.
+RUNTIME_PROPERTIES=$OPENMRS_HOME/openmrs-runtime.properties
+if [ -f "$RUNTIME_PROPERTIES" ]; then
+  echo "Setting sslMode=${DB_SSL_MODE} in openmrs-runtime.properties"
+  sed -i -E '/^connection\.url=/ {
+    s/&(useSSL|sslMode)\\?=[A-Za-z_]+//g
+    s/\?(useSSL|sslMode)\\?=[A-Za-z_]+&?/?/
+    s/\?$//
+  }' "$RUNTIME_PROPERTIES"
+  if grep -q '^connection\.url=.*?' "$RUNTIME_PROPERTIES"; then
+    sed -i -E '/^connection\.url=/ s/$/\&sslMode\\='"${DB_SSL_MODE}"'/' "$RUNTIME_PROPERTIES"
+  else
+    sed -i -E '/^connection\.url=/ s/$/?sslMode\\='"${DB_SSL_MODE}"'/' "$RUNTIME_PROPERTIES"
+  fi
 fi
 
-# start tomcat in background
-/usr/local/tomcat/bin/catalina.sh jpda run &
+# start tomcat in background; the JDWP agent only when DEBUG=true (docker-compose.debug.yml)
+if [ "$DEBUG" = true ]; then
+    export JPDA_ADDRESS="1044"
+    export JPDA_TRANSPORT=dt_socket
+    /usr/local/tomcat/bin/catalina.sh jpda run &
+else
+    /usr/local/tomcat/bin/catalina.sh run &
+fi
 
 # trigger first filter to start data importation
 sleep 15

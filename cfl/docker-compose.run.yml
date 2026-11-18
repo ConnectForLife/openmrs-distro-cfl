@@ -2,7 +2,7 @@ version: '2'
 
 services:
   web:
-    image: openmrscfldistroship:8.2.0-ship
+    image: openmrscfldistroship:8.2.2-ship
     container_name: cfl_ship_web_1
     restart: always
     logging:
@@ -12,6 +12,7 @@ services:
       DB_HOST: ${DB_HOST}
       DB_USERNAME: ${DB_USERNAME}
       DB_PASSWORD: ${DB_PASSWORD}
+      DB_SSL_MODE: ${DB_SSL_MODE:-REQUIRED}  # JDBC TLS: REQUIRED, or DISABLED for a database without TLS
       DB_CREATE_TABLES: ${INITIAL_STARTUP}    # change to 'true' if using an empty database
       DB_AUTO_UPDATE: ${INITIAL_STARTUP}      # change to 'true' if using an empty database
       RUN_OCL_IMPORT: ${INITIAL_STARTUP}      # Runs CIEL Concept on startup, takes ~30min
