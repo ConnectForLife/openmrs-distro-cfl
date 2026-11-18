@@ -61,6 +61,7 @@ Configure ``.env`` accordingly to the production environment.
 | DB_HOST               | URL                    | Specifies connection URL for database. Leave a default `db` for dev mode.
 | DB_USERNAME           | DB username            | Specifies user that OpenMRS will use to connect to database.
 | DB_PASSWORD           | DB password            | Specifies password that OpenMRS will use to connect to database.
+| DB_SSL_MODE           | REQUIRED or DISABLED   | TLS mode of the OpenMRS database connection, written into `openmrs-runtime.properties` on every start. Default `REQUIRED`; set `DISABLED` only for a database without TLS.
 | MYSQL_DEV_PORT        | port number, eg.: 3306 | If started in dev mode, specifies a TPC port under which docker should expose database.
 | TOMCAT_DEV_PORT       | port number, eg.: 8080 | When Debugging is enabled, specifies a TPC port under which docker should expose CfL web application.
 | TOMCAT_DEV_DEBUG_PORT | port number, eg 1044   | When Debugging is enabled, specifies a TPC port under which docker should expose Java debug port of CfL web application.
